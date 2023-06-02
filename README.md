@@ -2,9 +2,10 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Quan-Sun&label=Profile%20views&color=0e75b6&style=flat" alt="Quan-Sun" /> -->
 
-🌱 I'm currently working as a machine learning engineer @ [BAAI Vision Team](https://github.com/baaivision).
+🌱 I'm currently working on large scale neural nets @ [BAAI Vision Team](https://github.com/baaivision).
+- [EVA and EVA-CLIP](https://github.com/baaivision/EVA)
 
-🔭 I'm currently working on [EVA and EVA-CLIP](https://github.com/baaivision/EVA) with [Yue Cao](http://yue-cao.me/), [Xinlong Wang](https://www.xloong.wang/) and [Yuxin Fang](https://github.com/Yuxin-CV).
+🔭 [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en)
 
 ⚡ Reach out to me: **sunquan@baai.ac.cn or quansun84@gmail.com**
 
