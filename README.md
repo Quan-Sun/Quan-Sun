@@ -9,4 +9,4 @@
 
 ⚡ Reach out to me: **sunquan@baai.ac.cn or quansun84@gmail.com**
 
-[![Quan-Sun's github stats](https://github-readme-stats.vercel.app/api?username=Quan-Sun)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Quan-Sun's github stats](https://github-readme-stats.vercel.app/api?username=Quan-Sun)](https://github.com/anuraghazra/github-readme-stats) -->
