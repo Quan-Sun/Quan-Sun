@@ -4,6 +4,7 @@
 
 🌱 I'm currently working on large scale neural nets @ [BAAI Vision Team](https://github.com/baaivision).
 - [EVA and EVA-CLIP](https://github.com/baaivision/EVA)
+- [Emu](https://github.com/baaivision/Emu)
 
 🔭 [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en)
 
