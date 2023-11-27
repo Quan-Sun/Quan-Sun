@@ -8,6 +8,6 @@
 
 🔭 [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en)
 
-⚡ Reach out to me: **sunquan@baai.ac.cn or quansun84@gmail.com**
+⚡ Reach out to me: **quansun84 AT gmail DOT com**
 
 <!-- [![Quan-Sun's github stats](https://github-readme-stats.vercel.app/api?username=Quan-Sun)](https://github.com/anuraghazra/github-readme-stats) -->
