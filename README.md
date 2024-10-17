@@ -2,14 +2,16 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Quan-Sun&label=Profile%20views&color=0e75b6&style=flat" alt="Quan-Sun" /> -->
 
-🌱 I'm currently working on large scale neural nets @ [BAAI Vision Team](https://github.com/baaivision).
-- [EVA01 & EVA02 & EVA-CLIP & EVA-CLIP-18B](https://github.com/baaivision/EVA)
-- [Emu1 & Emu2](https://github.com/baaivision/Emu)
-- [Emu3](https://github.com/baaivision/Emu3)
-- [CapsFusion](https://github.com/baaivision/CapsFusion)
-- [DIVA](https://github.com/baaivision/DIVA)
+🌱 Currently, I am a researcher and engineer at [BAAI Vision Team](https://github.com/baaivision), focusing on large-scale pretraining techniques and large multimodal models, particularly on unified multimodal native models.
 
-🔭 [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en)
+🌟 Recent Projects
+- [Emu3](https://github.com/baaivision/Emu3)
+- [DIVA](https://github.com/baaivision/DIVA)
+- [Emu1 & Emu2](https://github.com/baaivision/Emu)
+- [CapsFusion](https://github.com/baaivision/CapsFusion)
+- [EVA01 & EVA02 & EVA-CLIP & EVA-CLIP-18B](https://github.com/baaivision/EVA)
+
+🔭 Here is my [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en).
 
 ⚡ Reach out to me: **quansun84 AT gmail DOT com**
 
