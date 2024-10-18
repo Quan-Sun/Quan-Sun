@@ -2,7 +2,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Quan-Sun&label=Profile%20views&color=0e75b6&style=flat" alt="Quan-Sun" /> -->
 
-🌱 Currently, I am a researcher and engineer at [BAAI Vision Team](https://github.com/baaivision), focusing on large-scale pretraining techniques and large multimodal models, particularly on unified multimodal native models.
+🌱 Currently, I am a researcher and engineer at [BAAI Vision Team](https://github.com/baaivision), focusing on large-scale models, particularly on unified multimodal native models.
 
 🌟 Recent Projects
 - [Emu3](https://github.com/baaivision/Emu3)
