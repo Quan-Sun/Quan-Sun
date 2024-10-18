@@ -7,8 +7,8 @@
 🌟 Recent Projects
 - [Emu3](https://github.com/baaivision/Emu3)
 - [DIVA](https://github.com/baaivision/DIVA)
-- [Emu1 & Emu2](https://github.com/baaivision/Emu)
 - [CapsFusion](https://github.com/baaivision/CapsFusion)
+- [Emu1 & Emu2](https://github.com/baaivision/Emu)
 - [EVA01 & EVA02 & EVA-CLIP & EVA-CLIP-18B](https://github.com/baaivision/EVA)
 
 🔭 Here is my [google scholar](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl=en).
