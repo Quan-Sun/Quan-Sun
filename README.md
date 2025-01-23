@@ -2,9 +2,10 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Quan-Sun&label=Profile%20views&color=0e75b6&style=flat" alt="Quan-Sun" /> -->
 
-🌱 Currently, I am a researcher and engineer at [BAAI Vision Team](https://github.com/baaivision), focusing on large-scale models, particularly on unified multimodal native models.
+🌱 Currently, I am a researcher and engineer at [StepFun(阶跃星辰)](https://www.stepfun.com/), focusing on large-scale models, particularly on unified multimodal native models.
 
 🌟 Recent Projects
+- [MAGI](https://magivideogen.github.io/)
 - [Emu3](https://github.com/baaivision/Emu3)
 - [DIVA](https://github.com/baaivision/DIVA)
 - [CapsFusion](https://github.com/baaivision/CapsFusion)
